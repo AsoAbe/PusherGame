@@ -24,6 +24,7 @@
 
 制作人数：2人
 
+担当箇所：GameOver＆GameClear全般、Scene遷移、デバッグなどの細かい修正
 
 
 使用技術
